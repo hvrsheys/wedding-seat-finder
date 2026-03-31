@@ -142,7 +142,14 @@ export default function App() {
   return (
     <>
       <style>{globalStyles}</style>
-      <div style={styles.page}>
+      <div
+        style={{
+          ...styles.page,
+          backgroundImage:
+            "linear-gradient(rgba(255,255,255,0.72), rgba(255,255,255,0.72)), url('/images/nafar-bg.jpg')",
+        }}
+      >
+        <div style={styles.overlay} aria-hidden="true" />
         <div style={styles.shell}>
           <main style={styles.card}>
             <div style={styles.floralTopLeft} aria-hidden="true">
@@ -254,7 +261,7 @@ function FloralCorner({ direction }) {
 const globalStyles = `
   * { box-sizing: border-box; }
   html { scroll-behavior: smooth; }
-  body { margin: 0; font-family: "Instrument Sans", sans-serif; background: linear-gradient(180deg, #fcfffc 0%, #f3f9f3 45%, #edf5ed 100%); }
+  body { margin: 0; font-family: "Instrument Sans", sans-serif; background: #f3f9f3; }
   button, input { font: inherit; }
   @keyframes fadeUp {
     from { opacity: 0; transform: translateY(10px); }
@@ -269,11 +276,17 @@ const globalStyles = `
 const styles = {
   page: {
     minHeight: "100vh",
+    position: "relative",
     padding: "1rem",
-    background:
-      "radial-gradient(circle at top, rgba(214,232,215,0.75), transparent 30%), linear-gradient(180deg, #fcfffc 0%, #f4f9f4 45%, #edf5ed 100%)",
+    backgroundColor: "#edf5ed",
+    backgroundPosition: "center",
+    backgroundRepeat: "no-repeat",
+    backgroundSize: "cover",
+    animation: "floralFade 600ms ease",
   },
   shell: {
+    position: "relative",
+    zIndex: 1,
     minHeight: "calc(100vh - 2rem)",
     display: "flex",
     alignItems: "center",
