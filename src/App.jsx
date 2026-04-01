@@ -208,7 +208,7 @@ export default function App() {
         <footer style={styles.siteFooter}>
           <p style={styles.footerCopy}>&copy; 2026 hersheys . All Rights Reserved</p>
           <p style={styles.footerNote}>
-            For Assistance, please proceed to our registration counter.
+            For assistance, please proceed to our registration counter.
           </p>
         </footer>
       </div>

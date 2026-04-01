@@ -8,7 +8,7 @@ Nek Usu Diot,VIP A1,1st Gen
 Nek Usu Usup,VIP A1,1st Gen
 Nek Yak Heri,VIP A1,1st Gen
 Nek Yak Karim,VIP A1,1st Gen
-,VIP A1,
+,,
 ,,
 Wa Hamid,VIP A2,
 Wa Helen,VIP A2,
@@ -54,9 +54,9 @@ Andrew,A7,RJ
 Saoirse,A7,RJ
 Sierra,A7,RJ
 Rigan,A7,RJ
-,A7,
-,A7,
-,A7,
+,,
+,,
+,,
 ,,
 Rafidah Wasli,A8,Sabah
 Widawati Wasli,A8,Sabah
@@ -78,7 +78,7 @@ Zhia Alana,A9,Nek Yak
 Alia Khairiyah,A9,Nek Yak
 Nazea Badea,A9,
 Nayma Bazla,A9,
-,A9,
+Adynda Eyshal,A9,
 ,,
 Wa Zul,A10,Nek Yak
 Wa Surya,A10,Nek Yak
@@ -117,12 +117,12 @@ Dayang Farzana,A13,Fam
 Bg Kerol,A13,Fam
 Ammar,A13,Fam
 Jasmine,A13,Fam
-Dayang Farhanah,A13,Fam
-Nazmi Johan,A13,Fam
+SIL Kak Nana,A13,Fam
 Halima Yasmin,A13,Fam
 Erin Suraya,A13,Fam
-SIL Kak Nana,A13,Fam
-Abang Hisyam,A13,Fam
+Dania Mansur,A13,Fam
+Muhammad,A13,Fam
+,,
 ,,
 Abang Huzaifah,A14,Fam
 Vivie Voon,A14,Fam
@@ -132,19 +132,19 @@ Zue,A14,Fam
 Nadeera,A14,Fam
 Azmeena,A14,Fam
 Aunty Noriah,A14,Fam
-Faiz,A14,Fam
-Lily,A14,Fam
+Abang Muhammad Faiz,A14,Fam
+Liyana Zemahari,A14,Fam
 ,,
 Acik Atep,A15,Nek Im
 Aunty Elda,A15,Nek Im
-Adynda Esyhal,A15,Nek Im
 Ezekiel Noah,A15,Nek Im
 Dayang Eyshal,A15,Nek Im
-Manado Othman,A15,
+Manado Othman,A15,Nek Im
 Chula Mai Bidin,A15,
 Pak Long Boy,A15,
 Aunty Raudhah,A15,
-,A15,
+Dayang Farhanah,A15,
+Nazmi Johan,A15,
 ,,
 Uncle David,A16,Jiran
 Isteri Uncle David,A16,Jiran
@@ -163,7 +163,7 @@ Raina Jemima,A17,
 Reyanna Zara,A17,
 Dayang Amira,A17,
 Enwar Abdulrahim,A17,
-Farella,A17,
+Nur Farella,A17,
 Evaranya,A17,
 Eman Nazim,A17,
 Ezra Nicholas,A17,
@@ -173,7 +173,7 @@ Shahera Hamdan,A18,Fam
 Abang Mohd Hasif,A18,Fam
 Nur Zulaikha Zanzillah,A18,Fam
 Syed Yusuf,A18,Fam
-Emir Eussoff,A18,Fam
+Emir Eusoffe,A18,Fam
 Aaron Faiz,A18,Fam
 Abdul Azim,A18,Fam
 Arif Hamizan,A18,
@@ -181,7 +181,7 @@ Afif Arimi,A18,
 ,,
 Sarah Manap,A19,Fam Bg Aspa
 Sazalina Sallam,A19,Fam Bg Aspa
-Adam,A19,Fam Bg Aspa
+Adam Rauf,A19,Fam Bg Aspa
 Aisha,A19,Fam Bg Aspa
 Khadija,A19,Fam Bg Aspa
 Nek Wen,A19,Fam Bg Aspa
@@ -201,7 +201,7 @@ Kalthom Hamdan (Untie Som) +1,A20,Belah Nek Boss
 Mummy Jenny,A20,Belah Nek Boss
 Suami Mummy Jenny,A20,Belah Nek Boss
 ,,
-Zakaria Haron (K. Abot),A21,Belah Nek Bos
+Zakaria Haron,A21,Belah Nek Bos
 Abot,A21,Belah Nek Bos
 Mohd Nawawi Hj Mohd Fauzi (K. Midah),A21,Belah Nek Bos
 Isteri K. Midah,A21,Belah Nek Bos
@@ -210,7 +210,7 @@ Suriani Binti Lani +1,A21,Belah Nek Bos
 Seruji Bin Hj Abg Abdul Rahman,A21,Belah Nek Bos
 Isteri Seruji Bin Hj Abg Abdul Rahman,A21,Belah Nek Bos
 Abang Hamdan Bin Abang Zaidan (Uncle Akub),A21,Belah Nek Bos
-,A21,
+Abang Hisyam,A21,Belah Nek Bos
 ,,
 Siti Sari Hj Mohd Fauzi,A22,Sibu
 Siti Sari Hj Mohd Fauzi +1,A22,Sibu
@@ -241,20 +241,20 @@ Fazidah Edi Wahab,A24,Kawan Mak
 Mawar Marzuki,A24,Kawan Mak
 Hjh Samsiah,A24,Kawan Mak
 Anak Uncle Lan,A24,Kawan Mak
-,A24,
-,A24,
-,A24,
+,,
+,,
+,,
 ,,
 Miza Izazi,A25,
 Denden,A25,
-Laila,A25,
-Dania Mansur,A25,
-Marsya Mansur,A25,
-,A25,
-,A25,
-,A25,
-,A25,
-,A25,
+Laila Farzana,A25,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
 ,,
 Unce Do'on,A26,East West Grp
 Isteri Unce Do'on ,A26,East West Grp
@@ -262,20 +262,321 @@ Azizan Jus,A26,East West Grp
 Azizan Jus +1,A26,East West Grp
 Azizan Jus +2,A26,East West Grp
 Kareem,A26,East West Grp
-,A26,
-,A26,
-,A26,
-,A26,
+,,
+,,
+,,
+,,
 ,,
 Uncle Talib,A27,
 Isteri Uncle Talib,A27,
 Fatimah Seruji,A27,
-Hj Karim,A27,
-,A27,
-,A27,
-,A27,
-,A27,
-,A27,
-,A27,
+Hj Karim,,
+,,
+,,
+,,
+,,
+,,
+,,
 ,,
 ENTOURAGE,A28,
+,,
+,,
+,,
+,,
+,,
+Puan Hjh Fatimah Hj Marzali,N1,
+Tuan Hj Ahmad Narihan Hj Marzali,N1,
+Isteri Tuan Hj Ahmad Narihan Hj Marzali,N1,
+Tuan Hj Mohd Narawie Hj Marzali,N1,
+Isteri Tuan Hj Mohd Narawie Hj Marzali,N1,
+Puan Hjh Farsiah Marzali,N1,
+Suami Puan Hjh Farsiah Marzali,N1,
+Puan Hjh Mariam Hj Kassim,N1,
+Puan Hjh Hadijah Hj Kassim,N1,
+Puan Hjh Rabuyah Hj Kassim,N1,
+,,
+Tuan Hj Mohd Annuar Bin Hj Sain,N2,
+Puan Hajjah Minah Bt. Hassan,N2,
+Puan Hajjah Rokiah Bt. Hassan,N2,
+Encik Amit Bin Hassan,N2,
+Isteri Encik Amit Bin Hassan,N2,
+Tuan Haji Basri,N2,
+Cik Raini,N2,
+Encik Hassim Bin Hassan,N2,
+Mak Soki,N2,
+Tuan Haji Alli B. Hassan,N2,
+,,
+Emcee,N3,Krew
+Penyanyi,N3,Krew
+Manager Penyanyi,N3,Krew
+Bridemaid,N3,Krew
+Bridemaid +1,N3,Krew
+Best Man,N3,Krew
+Pesilat 1,N3,Krew
+Pesilat 1,N3,Krew
+Manager Silat,N3,Krew
+Ustaz TMP,N3,Krew
+,,
+Pn Kartini Bt. Dato Sri Haji Saad,N4,
+Suami Pn Kartini Bt. Dato Sri Haji Saad,N4,
+Pn. Hoery Bt. Dato Sri Haji Saad,N4,
+Suami Pn. Hoery Bt. Dato Sri Haji Saad,N4,
+Pn. Azzaimah Bt. Dato Sri Haji Saad,N4,
+Suami Pn. Azzaimah Bt. Dato Sri Haji Saad,N4,
+Encik Shamsul Bahri,N4,
+Isteri Encik Shamsul Bahri,N4,
+Encik Hamdan B. Salleh,N4,
+Isteri Encik Hamdan B. Salleh,N4,
+,,
+Nurazaman Hj Hassan,N5,
+Koraiza Safuan,N5,
+Hjh Zainab Hj Marzali,N5,
+Suami Hjh Zainab Hj Marzali,N5,
+Suderman Narayan,N5,
+Isteri Suderman Narayan,N5,
+Hasbollah Hj Marzali,N5,
+Hasmi Hj Marzali,N5,
+Isteri Hasmi Hj Marzali,N5,
+Hj Hadriss Hj Marzali,N5,
+,,
+Encik Saiful Busfari Bin Bujang Sulong,N6,
+Liza,N6,
+Encik Zainal Bin Hassan,N6,
+Isteri Encik Zainal Bin Hassan,N6,
+Anak Encik Zainal Bin Hassan,N6,
+Shamsiah Binti Mahli,N6,
+Encik Jamaluddin Bin Hassan,N6,
+Isteri Encik Jamaluddin Bin Hassan,N6,
+Dzolkarnain Dato Sri Hj Saad,N6,
+Isteri Dzolkarnain Dato Sri Hj Saad,N6,
+,,
+Hazalina Hj Hassan,N7,
+Suami Hazalina Hj Hassan,N7,
+Esah Hj Kassim,N7,
+Hjh Hasiah Hj Kassim,N7,
+Abg Ismawi,N7,
+Aryani Hasseri,N7,
+Kk Osman Patrick,N7,
+Isteri Kk Osman Patrick,N7,
+Umar Suffian,N7,
+Isteri Umar Suffian,N7,
+,,
+Mohd Ismail Bin Yakup,N8,
+Isteri Mohd Ismail Bin Yakup,N8,
+Tuan Haji Mohd Ariffin Abang Musawi,N8,
+Puan Hajjah Dayang Faridah,N8,
+Tuan Haji Iskandar Bin Paee,N8,
+Puan Nuranizam Yussoff,N8,St.Thom
+Suami Puan Nuranizam Yussoff,N8,
+Puan Dayang Naralam,N8,St.Thom
+Puan Dayang Cassnani,N8,St.Thom
+Anak Puan Dayang Cassnani,N8,
+,,
+Encik Rakawi Haji Sahari,N9,
+Isteri Encik Rakawi Haji Sahari,N9,
+Kak Timah Daud,N9,
+Anak Kak Timah Daud,N9,
+Encik Kamarul Bin Samad Taba,N9,
+Isteri Encik Kamarul Bin Samad Taba,N9,
+Boy Neighbour,N9,K
+Leena,N9,
+Encik Samad B. Baki,N9,
+Isteri Encik Samad B. Baki,N9,
+,,
+Cik Natasha Elana,N10,
+Cik Dayang Nurshafiqah,N10,
+Cik Ayu Syamimi,N10,
+Cik Nur Afida,N10,
+Cik Miza Farhana,N10,
+Cik Nur Harzufia,N10,
+Cik Nur Izzati,N10,
+Cik Sharifah Zarith Sofia,N10,
+Cik Dayang Allysa,N10,
+Pasangan Cik Dayang Allysa,N10,
+,,
+Tuan Ir. Ts. Syahril Bin Julaihi,N11,
+Isteri Tuan Ir. Ts. Syahril Bin Julaihi,N11,
+Puan Ir. Ts. Chai Lee Lin,N11,
+Suami Puan Ir. Ts. Chai Lee Lin,N11,
+Puan Siti Zuriati Binti Rahman,N11,
+Suami Puan Siti Zuriati Binti Rahman,N11,
+Puan Noraini Binti Ahmad,N11,
+Suami Puan Noraini Binti Ahmad,N11,
+Muhammad Faiz Bin Hasni,N11,
+Mohamad Alif Bin Bahara,N11,
+,,
+Tuan Noor Ismail Bin Razali,N12,
+Isteri Tuan Noor Ismail Bin Razali,N12,
+Puan Ir. Ts. Norwati Binti Hj Mohd. Ali,N12,
+Suami Puan Ir. Ts. Norwati Binti Hj Mohd. Ali,N12,
+Cik Dayang Hairullina,N12,
+Cik Michelle Kristie,N12,
+Puan Ir. Ts. Nur Nasuha Binti Nasir,N12,
+Suami Puan Ir. Ts. Nur Nasuha Binti Nasir,N12,
+Tuan Kamarulzaman Bin Ahmad,N12,
+Tuan Sean Lee Chin Foo,N12,
+,,
+Cik Nur Syaheerah,N13,
+Pasangan Cik Nur Syaheerah,N13,
+Tuan Saiful Bahri,N13,
+Isteri Tuan Saiful Bahri,N13,
+Puan Amirah Hidayati,N13,
+Suami Puan Amirah Hidayati,N13,
+Encik Ashrukh Aryan,N13,
+Puan Hajjah Nancy,N13,
+Anak Puan Hajjah Nancy,N13,Landeh
+Anak Puan Hajjah Nancy,N13,Landeh
+,,
+Tuan Haji Hasbol B. Salleh,N14,
+Encik Razali B. Salleh,N14,
+Isteri Encik Razali B. Salleh,N14,
+Puan Hajjah Sarinah Bt. Salleh,N14,
+Suami Puan Hajjah Sarinah Bt. Salleh,N14,
+Puan Rabiah Bt. Salleh,N14,
+Suami Puan Rabiah Bt. Salleh,N14,
+Zalifah Bt. Amit,N14,
+Suami Zalifah Bt. Amit,N14,
+,,
+,,
+Nana,N15,WCC
+Cik Nur Isma,N15,
+Cik Balqis Ishak,N15,
+Cik Balqis Wainie,N15,
+Cik Azlin Zetyneza,N15,
+Cik Anis Nur Syazwani,N15,
+Cik Anatashe,N15,
+Cik Khatijah,N15,
+Puan Marcellina,N15,
+Cik Earma Amiera,N15,
+,,
+Areen,N16,
+Nasrin,N16,
+Hartina,N16,
+Suami Hartina,N16,
+Ucu Mak Mya,N16,
+Suami Ucu Mak Mya,N16,
+Aunty Cl Norjana,N16,
+Suami Aunty Cl Norjana,N16,
+Nadia Mohd Ismail,N16,
+Suami Nadia Mohd Ismail,N16,
+,,
+Noorshahriman,N17,Dbku
+Johari Zamhari,N17,Dbku
+Abdul Aziz,N17,Dbku
+Syed Hafiz,N17,Dbku
+Sufri,N17,Dbku
+Hj Dzul,N17,Dbku
+Hartono Basri,N17,Dbku
+Ismail Syawal Ibrahim,N17,Dbku
+Mohd Hafizul Rahmat,N17,Dbku
+Kusairi Majidi,N17,Dbku
+,,
+Hj Suharman Edward,N18,
+Isteri Hj Suharman Edward,N18,
+Puan Normahyusni M. Annuar,N18,
+Suami Puan Normahyusni M. Annuar,N18,
+Anak Puan Normahyusni M. Annuar,N18,
+Norrizan Johan,N18,Tmr
+Nur Irfan,N18,Tmr
+Yusniza,N18,Tmr
+Suami Yusniza,N18,
+Anak Yusniza,N18,
+,,
+Rosmadi Suhaili,N19,
+Norjanah Madehi,N19,
+Mak Etam,N19,
+Mummy Ham,N19,
+Nurul,N19,
+Suami Nurul,N19,
+Anak Nurul,N19,
+Hj Nizam,N19,Dbku
+Isteri Hj Nizam,N19,
+Samsul Bahri,N19,Dbku
+,,
+Encik Iquebaal Bin Abdul Rahim,N20,
+Isteri Encik Iquebaal Bin Abdul Rahim,N20,
+Borhan,N20,Basyer
+Encik Zainal,N20,Dbku
+Isteri Encik Zainal,N20,
+Najib Mohd Ismail,N20,
+Arisha,N20,
+Muhammad Qaleef Ar-Rayyan,N20,
+Mikayla Safiyya,N20,
+Aisy Khadeeja,N20,
+,,
+Encik Abdul Malik Bin Mohd. Amin,N21,
+Encik Izzat,N21,
+Encik Suffian B. Salleh,N21,
+Anak Encik Suffian B. Salleh,N21,
+Encik Mansor B. Salleh,N21,
+Encik Zakaria Bin Salleh,N21,
+Abdulrahman Matjeraie Bin Haji Taim,N21,
+Isteri Abdulrahman Matjeraie Bin Haji Taim,N21,
+Encik Lobot,N21,
+Encik Sahak,N21,
+,,
+Zaher,N22,
+Hazziq,N22,
+Pasangan Hazziq,N22,
+Awang,N22,
+Pasangan Awang,N22,
+Naim,N22,
+Najwa,N22,
+Joe,N22,
+Jalal,N22,
+Eizait,N22,
+,,
+Patricia + Anak,N23,
+Anak Patricia ,N23,
+Anak Patricia ,N23,
+Fadia & Arumi,N23,
+Suami Fadia & Arumi ,N23,
+Faheera + Anak,N23,
+Suami Faheera,N23,
+Ameera,N23,Usu Bol
+Zul Hasbollah,N23,Usu Bol
+Norlela,N23,
+,,
+Nubasyer,N24,
+Norman,N24,
+Farhan,N24,
+Qariz,N24,
+Zariq,N24,
+Encik Farizul Bin Alli,N24,
+Isteri Encik Farizul Bin Alli,N24,
+Anak Encik Farizul Bin Alli,N24,
+Anak Encik Farizul Bin Alli,N24,
+,,
+,,
+Abah Ilyas,N25,
+Mama Ilyas,N25,
+Sibs Ilyas,N25,
+Sibs Ilyas,N25,
+Sibs Ilyas,N25,
+Sibs Ilyas,N25,
+Najla + Iman,N25,
+Ilyas + Aira,N25,
+Sara,N25,
+Elly,N25,
+,,
+Arshad Hasseri,N26,
+Zaki Mok Yam,N26,
+Nooreeza Mohd Ismail,N26,
+Isteri Nooreeza Mohd Ismail,N26,
+Hana Ramzi,N26,
+Suami Hana Ramzi,N26,
+Hani,N26,
+Suami Hani,N26,
+Athirah,N26,
+Suami Athirah,N26,
+,,
+Shah Nazrin,N27,
+Kak Intan + Nermin,N27,
+Nedrin,N27,
+Nadine,N27,
+Shah Azeezan,N27,
+Isteri + Anak Shah Azeezan,N27,
+Shafiz,N27,
+Min + Baby,N27,
+Anak Min,N27,
+Khariz,N27,
