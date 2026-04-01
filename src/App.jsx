@@ -204,6 +204,13 @@ export default function App() {
             </section>
           </main>
         </div>
+
+        <footer style={styles.siteFooter}>
+          <p style={styles.footerCopy}>&copy; 2026 hersheys . All Rights Reserved</p>
+          <p style={styles.footerNote}>
+            For Assistance, please proceed to our registration counter.
+          </p>
+        </footer>
       </div>
     </>
   );
@@ -409,5 +416,23 @@ const styles = {
     color: "#647b69",
     lineHeight: 1.6,
     fontSize: "0.95rem",
+  },
+  siteFooter: {
+    position: "relative",
+    zIndex: 1,
+    padding: "0 1rem 1.1rem",
+    textAlign: "center",
+  },
+  footerCopy: {
+    margin: 0,
+    color: "#7a8e7d",
+    fontSize: "0.78rem",
+    letterSpacing: "0.08em",
+  },
+  footerNote: {
+    margin: "0.45rem 0 0",
+    color: "#8a9b8c",
+    fontSize: "0.82rem",
+    lineHeight: 1.6,
   },
 };
